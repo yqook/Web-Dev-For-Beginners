@@ -2,7 +2,7 @@
   - [1](../1-getting-started-lessons/1-intro-to-programming-languages/README.md)
   - [2](../1-getting-started-lessons/2-github-basics/README.md)
   - [3](../1-getting-started-lessons/3-accessibility/README.md)
-  
+
 - JS Basics
   - [4](../2-js-basics/1-data-types/README.md)
   - [5](../2-js-basics/2-functions-methods/README.md)
@@ -16,7 +16,7 @@
 
 - Typing game
   - [11](../4-typing-game/typing-game/README.md)
-  
+
 - Browser Extension
   - [12](../5-browser-extension/1-about-browsers/README.md)
   - [13](../5-browser-extension/2-forms-browsers-local-storage/README.md)

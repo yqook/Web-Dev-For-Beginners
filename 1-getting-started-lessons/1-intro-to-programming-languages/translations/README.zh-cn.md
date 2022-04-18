@@ -2,7 +2,7 @@
 
 这节课涵盖了编程语言的基础知识，涉及到的内容适用于如今大多数现代编程语言。在“工具介绍”部分，你会了解到一些对开发者很有用的软件。
 
-![Intro Programming](/sketchnotes/webdev101-programming.png)
+![Intro Programming](../../../sketchnotes/webdev101-programming.png)
 > 涂鸦笔记作者：[Tomomi Imura](https://twitter.com/girlie_mac)
 
 ## 课前小测
@@ -144,7 +144,7 @@ back add r0,r1
 - [Command Line](https://docs.microsoft.com/windows-server/administration/windows-commands/windows-commands?WT.mc_id=academic-13441-cxa) (即 CMD) 💻
 - [Windows Terminal](https://docs.microsoft.com/windows/terminal/?WT.mc_id=academic-13441-cxa)
 - [mintty](https://mintty.github.io/)
-  
+
 #### MacOS
 
 - [Terminal](https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac) 💻

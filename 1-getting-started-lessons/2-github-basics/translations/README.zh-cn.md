@@ -2,7 +2,7 @@
 
 这节课涵盖了 GitHub 的基础知识，这是一个可以用来存放代码和管理代码变更的平台。
 
-![Intro to GitHub](/sketchnotes/webdev101-github.png)
+![Intro to GitHub](../../..//sketchnotes/webdev101-github.png)
 > 涂鸦笔记作者：[Tomomi Imura](https://twitter.com/girlie_mac)
 
 ## 课前小测
@@ -156,7 +156,7 @@
 一条好的 Git 提交信息标题（subject line）可以理解为下方句子的填空：
 如果生效，这次提交将会 <你的提交信息标题>
 
-在标题内，使用祈使语气和现在时态，即使用 “change” 而非 “changed” 或 “changes”。 
+在标题内，使用祈使语气和现在时态，即使用 “change” 而非 “changed” 或 “changes”。
 同理，在正文（body，可选）中也要用祈使语气和现在时态。正文中需要包括更改的动机，并对比与更改前后行为的变化。确保你说明的是`为什么`，而不是`怎么做`。
 
 ✅ 花几分钟逛逛 GitHub。你能找到感觉非常棒的提交信息吗？你可以找到非常简洁的提交信息吗？你认为在一条提交信息中，传达什么信息是最重要和有用的？
@@ -313,6 +313,6 @@ Pull Request 是一个可以用来比较和讨论一个分支引入的改动的�
 
 你还可以在上面找到更多高阶的实验内容。
 
-## 作业 
+## 作业
 
 完成 [在 GitHub 的第一周](https://lab.github.com/githubtraining/first-week-on-github)
